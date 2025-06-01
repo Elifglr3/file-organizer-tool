@@ -18,5 +18,5 @@ A simple Python GUI application that helps you organize files in a selected fold
 git clone https://github.com/your-username/file-organizer-tool.git
 cd file-organizer-tool
 pip install -r requirements.txt
-python main.py
+python file_organization.py
 
